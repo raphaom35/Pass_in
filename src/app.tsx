@@ -1,5 +1,5 @@
-import { AttendeeList } from "./attendee-list";
-import { Header } from "./header";
+import { AttendeeList } from "./components/attendee-list";
+import { Header } from "./components/header";
 
 export function App() {
 
