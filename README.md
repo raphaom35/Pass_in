@@ -1,6 +1,9 @@
-<h1 align="center">
+<div align="center">
+   <img src="https://img.shields.io/badge/License-MIT-blue.svg](https://github.com/raphaom35/Pass_in/blob/main/src/assets/nlw-unite-icon.svg)" alt="Pass in">
+<h1>
 Pass In
 </h1>
+</div>
 
 <p align="center">
 Helps you control the people who register for your event
