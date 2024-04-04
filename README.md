@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://img.shields.io/badge/License-MIT-blue.svg](https://github.com/raphaom35/Pass_in/blob/main/src/assets/nlw-unite-icon.svg)" alt="Pass in">
+   <img src="https://github.com/raphaom35/Pass_in/blob/main/src/assets/nlw-unite-icon.svg" alt="Pass in">
 <h1>
 Pass In
 </h1>
