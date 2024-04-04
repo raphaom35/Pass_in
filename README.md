@@ -4,6 +4,7 @@ Pass In
 
 <p align="center">
 Helps you control the people who register for your event
+URl: https://pass-in-sooty.vercel.app/
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@ Helps you control the people who register for your event
 </p>
 
 <div align="center">
-<video src="/2024-4-4_14_46.mp4" width="300" height=400 />
+<img src="/shared_image.gif" width="300" height=400 />
 
 </div>
 
