@@ -6,7 +6,7 @@ Pass In
 Helps you control the people who register for your event
 
 </p>
-<p>
+<p align="center">
   URL: https://pass-in-sooty.vercel.app/
 </p>
 
