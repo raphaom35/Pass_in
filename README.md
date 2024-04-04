@@ -14,7 +14,7 @@ URl: https://pass-in-sooty.vercel.app/
 </p>
 
 <div align="center">
-<img src="/shared_image.gif" width="300" height=400 />
+<img src="/shared_image.gif" width="500" height=400 />
 
 </div>
 
