@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/raphaom35/Pass_in/blob/main/src/assets/nlw-unite-icon.svg" alt="Pass in">
+   <img src="https://github.com/raphaom35/Pass_in/blob/main/src/assets/nlw-unite-icon.svg" alt="Pass in" width="70" height=70>
 <h1>
 Pass In
 </h1>
