@@ -60,7 +60,7 @@ export function AttendeeList (){
             onChange={onSearchInputChanged}
           />
         </div>
-        {search}
+       
         </div>
         <Table>
         <thead>
